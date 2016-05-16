@@ -5,3 +5,6 @@
 
 ##javascript##
 * [理解JavaScript中的依赖注入](http://www.html-js.com/article/2598)
+
+##vue##
+* [用 Vuex 构建一个笔记应用](https://segmentfault.com/a/1190000005015164)
