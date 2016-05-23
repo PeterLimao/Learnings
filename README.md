@@ -9,3 +9,7 @@
 
 ##vue##
 * [用 Vuex 构建一个笔记应用](https://segmentfault.com/a/1190000005015164)
+* [vue.js官方教程](http://vuejs.org.cn/guide/installation.html)
+* [vue-router官方教程](http://router.vuejs.org/zh-cn/index.html)
+* [vuex官方教程](http://vuex.vuejs.org/zh-cn/index.html)
+* [vue-loader官方教程](http://vue-loader.vuejs.org/en/index.html)
